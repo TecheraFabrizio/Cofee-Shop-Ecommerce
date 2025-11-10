@@ -1,0 +1,5 @@
+{
+    "prettier.bracketSameLine": false,
+    "livePreview.customExternalBrowser": "Chrome",
+    "livePreview.openPreviewTarget": "External Browser"
+}
